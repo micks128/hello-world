@@ -1,0 +1,1 @@
+This content is visible on the front page of the GitHub repository
